@@ -1,16 +1,32 @@
-## Hi there 👋
+# Arthur Salmoria 🎬💻
 
-<!--
-**salmoriadev/salmoriadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Dev & Filmmaker**  
+> Cursando Bacharelado em Sistemas de Informação (UFSC) · Computação Gráfica · Inteligência Artificial · Storytelling Visual
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Sobre mim  
+Sou estudante de Sistemas de Informação na UFSC, apaixonado por **programação** e **filmmaking**.
+
+---
+
+## 🛠️ Habilidades Técnicas  
+- **Linguagens:** Python
+- **Inteligência Artificial Generativa para vídeo:** Runway, Elevenlabs, Midjourney, etc 
+- **Ferramentas de Edição:** DaVinci Resolve, Premiere Pro, After Effects e Fusion
+
+---
+
+## 🎓 Formação Acadêmica  
+- **Cursando Bacharelado em Sistemas de Informação**  
+  Universidade Federal de Santa Catarina (UFSC) — previsão de conclusão em 2029
+
+---
+
+## 📫 Contato  
+- 📧 salmoria.dev@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/arthursalmoria)  
+
+---
+
+*“A união entre a inovação e o cinema cria novas linguagens visuais.”*  
