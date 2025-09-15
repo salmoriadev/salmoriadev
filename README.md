@@ -20,7 +20,6 @@ Sou estudante de Sistemas de Informação na UFSC, fascinado pela intersecção 
     -   Segurança de Redes e Sistemas
     -   Criptografia
     -   Análise de Vulnerabilidades
-    -   Certificados e Assinaturas Digitais
 -   **Ferramentas:** Git, Docker, Linux, OpenSSL 
 
 ---
